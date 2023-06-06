@@ -1,0 +1,8 @@
+
+
+train: E:\Pycharmproject\v5mydata\images # train images
+val: E:\Pycharmproject\v5mydata\images # val images
+
+# CLasses
+nc: 3 # number of
+names : ['car','bus','truck'] # class names
